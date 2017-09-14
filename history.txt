@@ -1,5 +1,5 @@
-    1  VirtualBox --startvm XP
-    2  .
+
+  
     3  cd .
     4  cd
     5  cd ..
@@ -41,3 +41,16 @@
    41  histori
    42  history
    43  history > history.txt
+   44  ls -l
+   45  cat history.txt
+   46  git init
+   47  git add
+   48  git add.
+   49  git add .
+   50  git config --global user.email jelizavetak@inbox.lv
+   51  git commit -m"20170914_09_32"
+   52  git remote add origin https://github.com/lafionium/DMI.git
+   53  git push origin master
+   54  pwd
+   55  history
+   56  history > history.txt
