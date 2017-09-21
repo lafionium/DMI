@@ -1,0 +1,95 @@
+    1  VirtualBox --startvm XP
+    2  #!/bin/bash
+    3  nano
+    4  ls -l
+    5  cat git-download.sh
+    6  git-download
+    7  whereis ls
+    8  echo $PATH
+    9  cat/bin ls
+   10  cat/bin/ls
+   11  cat /bin/ls
+   12  la -l
+   13  pwd
+   14  ls -l
+   15  PATH=$PATH:/home/user
+   16  echo $PATH
+   17  ls
+   18  /bin/ls
+   19  git-download
+   20  ~/git-download/sh
+   21  ~/git-download.sh
+   22  git-download
+   23  git-download.sh
+   24  ls -l
+   25  ls -l/bin/ls
+   26  ls -l /bin/ls
+   27  chmod 744 git-download.sh
+   28  ls -l
+   29  git-download.sh
+   30  ls -l
+   31  mv git-download.sh git-download
+   32  ls -l
+   33  cd dmi
+   34  cd DMI
+   35  ls -l
+   36  cp /home/user/git-download ./
+   37  ls -la
+   38  pwd
+   39  nano git-upload
+   40  ls -l
+   41  cat git-upload
+   42  historu > history_20170921.txt
+   43  history > history20170921.txt
+   44  ls -l
+   45  cat history20170921.txt 
+   46  mv history20170921.txt > history_20170920.txt
+   47  git-upload
+   48  echo $PATH git-upload 
+   49  ls-la
+   50  ls -ls
+   51  echo $PATH
+   52  PATH=$PATH:/home/user/DMI
+   53  LS -L
+   54  ls -l
+   55  git-download 
+   56  nano
+   57  ls -l
+   58  pwd
+   59  rm -rf DMI/
+   60  ls -l
+   61  rm history20170921.txt 
+   62  ls -l
+   63  git-upload
+   64  chmod 744 git-upload 
+   65  ls -l
+   66  git-upload
+   67  nano git-upload
+   68  nano history_20170921.txt 
+   69  rm history_20170920.txt 
+   70  history > history_20170921.txt 
+   71  ls -l
+   72  nano history_20170921.txt 
+   73  nano inbox
+   74  inbox
+   75  chmod 744 inbox
+   76  inbox
+   77  nano inbox
+   78  inbox
+   79  nano history_20170921.txt 
+   80  nano shell_treninjsh.sh
+   81  ls -l
+   82  shell ./shell_treninjsh.sh
+   83  ./shell_treninjsh.sh
+   84  chmod 744 shell_treninjsh.sh 
+   85  ./shell_treninjsh.sh 
+   86  nano shell_treninjsh.sh 
+   87  ./shell_treninjsh.sh 
+   88  cat shell_treninjsh.sh 
+   89  ./e
+   90  ./shell_treninjsh.sh 
+   91  nano shell_treninjsh.sh 
+   92  ./shell_treninjsh.sh 
+   93  echo ./shell_treninjsh.sh 
+   94  echo shell_treninjsh.sh 
+   95  history > history_20170921.txt
