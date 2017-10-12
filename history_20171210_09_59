@@ -1,0 +1,47 @@
+    1  VirtualBox --startvm XP
+    2  nano
+    3  nano shell_operators/sh
+    4  nano shell.operators.sh
+    5  nano shell_operators.sh
+    6  shell_operators.sh
+    7  ./shell_operators.sh
+    8  chmod 744 shell_operators.sh 
+    9  ./shell_operators.sh 
+   10  nano shell_operators.sh
+   11  ./shell_operators.sh 
+   12  nano shell_operators.sh
+   13  ls -l
+   14  nano shell_operators.sh
+   15  ./shell_operators.sh 
+   16  nano shell_operators.sh
+   17  ./shell_operators.sh 
+   18  nano shell_operators.sh
+   19  shell_operators.sh 
+   20  ./shell_operators.sh 
+   21  shell_operators.sh 
+   22  nano shell_operators.sh
+   23  ./shell_operators.sh 
+   24  nano shell_operators.sh
+   25  ./shell_operators.sh 
+   26  nano shell_operators.sh
+   27  ./shell_operators.sh 
+   28  nano shell_operators.sh
+   29  ./shell_operators.sh 
+   30  nano shell_operators.sh
+   31  ./shell_operators.sh 
+   32  nano shell_operators.sh
+   33  ./shell_operators.sh 
+   34  nano shell_operators.sh
+   35  ./shell_operators.sh 
+   36  nano shell_operators.sh
+   37  ./shell_operators.sh 
+   38  nano shell_operators.sh
+   39  ./shell_operators.sh 
+   40  nano shell_operators.sh
+   41  ./shell_operators.sh 
+   42  nano shell_operators.sh
+   43  ./shell_operators.sh 
+   44  nano shell_operators.sh
+   45  ./shell_operators.sh 
+   46  nano git-upload 
+   47  history > history_20171210_09_59
