@@ -1,5 +1,5 @@
 #!/bin/bash
 git config --global user.email jelizavetak@inbox.lv
 git add .
-git commit -m "20172610_09_55"
+git commit -m "20171411_19_55"
 git push origin master
