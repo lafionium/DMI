@@ -1,0 +1,101 @@
+    1  VirtualBox --startvm XP
+    2  github
+    3  ./git-download https://github.com/lafionium/DMI
+    4  ./git-upload https://github.com/lafionium/DMI
+    5  ./git-clone https://github.com/lafionium/DMI
+    6  ./git clone https://github.com/lafionium/DMI
+    7  git clone https://github.com/lafionium/DMI
+    8  ls -l
+    9  cd DMI
+   10  ls -l
+   11  inbox
+   12  cd PYTHON
+   13  nano if.p
+   14  chmod 744 if.p
+   15  ./ if.p
+   16  ./if.p
+   17  nano if.p
+   18  ./if.p
+   19  nano shell_komandas.sh
+   20  nano if.p
+   21  mv if.p > if.py
+   22  mv if.p if.py
+   23  ls -l
+   24  python if.py
+   25  nano while.py
+   26  python while.py
+   27  cd .. PYTHON
+   28  chmod 744 shell_komandas.sh
+   29  ls -l
+   30  nano shell_komandas.sh
+   31  cd PYTHON
+   32  ls -l
+   33  chmod 744 while.py
+   34  nano sin_caur_+.py
+   35  python sin+_ver1.py
+   36  nano sin+_ver1.py
+   37  python sin+_ver1.py
+   38  nano sin+_ver1.py
+   39  python sin+_ver1.py
+   40  nano sin+_ver1.py
+   41  python sin+_ver1.py
+   42  nano sin+_ver1.py
+   43  python sin+_ver1.py
+   44  nano sin+_ver1.py
+   45  python sin+_ver1.py
+   46  nano sin+_ver1.py
+   47  python sin+_ver1.py
+   48  nano sin+_ver1.py
+   49  python sin+_ver1.py
+   50  cp sin+_ver1.py sin+_ver2.py
+   51  ls -l
+   52  cd .. PYTHON
+   53  ls -l
+   54  cd PYTHON
+   55  ls -l
+   56  nano sin+_ver2.py
+   57  python sin+_ver2.py
+   58  nano sin+_ver2.py
+   59  python sin+_ver2.py
+   60  nano sin+_ver2.py
+   61  python sin+_ver2.py
+   62  cp sin+_ver2.py sin+_ver3.py
+   63  ls -l
+   64  nano sin+_ver3.py
+   65  python sin+_ver3.py
+   66  nano sin+_ver3.py
+   67  python sin+_ver3.py
+   68  nano sin+_ver3.py
+   69  python sin+_ver3.py
+   70  nano sin+_ver3.py
+   71  python sin+_ver3.py
+   72  nano sin+_ver3.py
+   73  python sin+_ver3.py
+   74  nano sin+_ver3.py
+   75  python sin+_ver3.py
+   76  nano sin+_ver3.py
+   77  python sin+_ver3.py
+   78  cp sin+_ver3.py sin+_ver4.py
+   79  nano sin+_ver4.py
+   80  python sin+_ver3.py
+   81  python sin+_ver4.py
+   82  nano sin+_ver4.py
+   83  python sin+_ver4.py
+   84  nano sin+_ver4.py
+   85  cp sin+_ver4.py sin+_ver5.py
+   86  nano sin+_ver5.py
+   87  python sin+_ver5.py
+   88  nano sin+_ver5.py
+   89  python sin+_ver5.py
+   90  nano sin+_ver5.py
+   91  cp sin+_ver4.py sin+.py
+   92  nano sin+.py
+   93  rm sin+.py
+   94  cp sin+_ver5.py sin+.py
+   95  nano sin+.py
+   96  python sin+.py
+   97  nano sin+.py
+   98  nano git-clone
+   99  nano git-download
+  100  cd ..
+  101  history > history16112017

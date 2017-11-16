@@ -1,0 +1,57 @@
+    1  VirtualBox --startvm XP
+    2  nano if.sh
+    3  chmod 744 if.sh
+    4  ./if.sh
+    5  if.sh
+    6  ./if.sh
+    7  f
+    8  ./if.sh
+    9  5
+   10  ./if.sh 5
+   11  nano if.sh
+   12  ./if.sh 5
+   13  ./if.sh -5
+   14  nano if.sh
+   15  ./if.sh -5
+   16  ./if.sh 5
+   17  ./if.sh -10
+   18  ./if.sh 5
+   19  nano if.sh
+   20  ./if.sh 5
+   21  ./if.sh -10
+   22  nano if.sh
+   23  ./if.sh -10
+   24  nano if.sh
+   25  ./fi.sh 2
+   26  ./if.sh 2
+   27  nano if.sh
+   28  ./if.sh 2
+   29  ./if.sh 0
+   30  ./if.sh -10
+   31  nano if.sh
+   32  ./if.sh 0
+   33  -10
+   34  ./if.sh -10
+   35  nano if.sh
+   36  ./if.sh 0
+   37  nano if.sh
+   38  ./if.sh 0
+   39  nano array_loop.sh
+   40  chmod 744 array_loop.sh
+   41  ./array_loop.sh
+   42  ./array_loop.sh 4 5 6
+   43  nano array_loop.sh
+   44  ./array_loop.sh 4 5 6
+   45  ./array_loop.sh 485 6 458
+   46  ./array_loop.sh 55 2 96
+   47  nano array_loop.sh
+   48  ./array_loop.sh 55 2 96
+   49  ./array_loop.sh 45 65 875
+   50  nano array_loop.sh
+   51  ./array_loop.sh 45 65 875
+   52  nano array_loop.sh
+   53  ./array_loop.sh 45 65 875
+   54  nano array_loop.sh
+   55  ./array_loop.sh 45 65 875
+   56  ./array_loop.sh 45 65 875 4 7
+   57  history > history26102017

@@ -1,0 +1,56 @@
+
+  
+    3  cd .
+    4  cd
+    5  cd ..
+    6  cd..
+    7  cd .
+    8  cd
+    9  pwd
+   10  who
+   11  is
+   12  pwd
+   13  cd ..
+   14  pwd
+   15  cat
+   16  cd ..
+   17  .
+   18  ls
+   19  pwd
+   20  ls
+   21  ls -la
+   22  /home
+   23  pwd
+   24  who
+   25  pwd
+   26  cd
+   27  cd home
+   28  cd -home
+   29  cd home/user
+   30  ls
+   31  ls -l
+   32  cd home/
+   33  cd Dokuments/
+   34  pwd
+   35  cd ~
+   36  pwd
+   37  ls -l
+   38  mkdir darbi
+   39  ls -l
+   40  cd darbi
+   41  histori
+   42  history
+   43  history > history.txt
+   44  ls -l
+   45  cat history.txt
+   46  git init
+   47  git add
+   48  git add.
+   49  git add .
+   50  git config --global user.email jelizavetak@inbox.lv
+   51  git commit -m"20170914_09_32"
+   52  git remote add origin https://github.com/lafionium/DMI.git
+   53  git push origin master
+   54  pwd
+   55  history
+   56  history > history.txt

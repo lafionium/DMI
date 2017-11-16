@@ -1,0 +1,57 @@
+    1  VirtualBox --startvm XP
+    2  git-download https://github.com/lafionium/DMI
+    3  git cloan https://github.com/lafionium/DMI
+    4  git clone https://github.com/lafionium/DMI
+    5  cd DMI
+    6  ls -l
+    7  cd PYTHON
+    8  ls -l
+    9  nano variables.py
+   10  ./variables.py
+   11  chmod 744 variables.py 
+   12  ./ variables.py 
+   13  ./variables.py 
+   14  nano variables.py 
+   15  ./variables.py 
+   16  nano variables.py 
+   17  ./variables.py 
+   18  nano variables.py 
+   19  y
+   20  ./variables.py 
+   21  nano variables.py 
+   22  ./variables.py 
+   23  nano variables.py 
+   24  ./variables.py 
+   25  nano variables.py 
+   26* 
+   27  ./variables.py 
+   28  nano variables.py 
+   29  ./variables.py 
+   30  nano variables.py 
+   31  ./variables.py 
+   32  nano dialogs.py
+   33  ./variables.py 
+   34  chmod 744 dialogs.py 
+   35  ./ dialogs.py 
+   36  ./dialogs.py 
+   37  ls -l
+   38  ./dialogs.py
+   39  nano dialogs.py
+   40  ./dialogs.py
+   41  nano dialogs.py
+   42  ./dialogs.py
+   43  nano dialogs.py
+   44  ./dialogs.py
+   45  nano dialogs.py
+   46  ./dialogs.py
+   47  nano dialogs.py
+   48  ./dialogs.py
+   49  nano dialogs.py
+   50  ./dialogs.py
+   51  nano dialogs.py
+   52  ./dialogs.py
+   53  nano dialogs.py
+   54  ./dialogs.py
+   55  nano dialogs.py
+   56  cd ..
+   57  history > history9112017
