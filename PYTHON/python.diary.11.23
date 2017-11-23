@@ -1,0 +1,48 @@
+Python 2.7.6 (default, Jun 22 2015, 17:58:13) 
+[GCC 4.8.2] on linux2
+Type "copyright", "credits" or "license()" for more information.
+>>> vars ()
+{'__builtins__': <module '__builtin__' (built-in)>, '__name__': '__main__', '__doc__': None, '__package__': None}
+>>> __builtins__.input.__doc__
+'input([prompt]) -> value\n\nEquivalent to eval(raw_input(prompt)).'
+>>> 
+>>> 
+>>> 
+>>> print __builtins__.input.__doc__
+input([prompt]) -> value
+
+Equivalent to eval(raw_input(prompt)).
+>>> from math import sin
+>>> vars ()
+{'__builtins__': <module '__builtin__' (built-in)>, '__doc__': None, '__name__': '__main__', '__package__': None, 'sin': <built-in function sin>}
+>>> import math
+>>> vars ()
+{'__builtins__': <module '__builtin__' (built-in)>, '__doc__': None, '__name__': '__main__', '__package__': None, 'sin': <built-in function sin>, 'math': <module 'math' (built-in)>}
+>>> import.math as matematika
+SyntaxError: invalid syntax
+>>> import math as matematika
+>>> vars ()
+{'__builtins__': <module '__builtin__' (built-in)>, 'matematika': <module 'math' (built-in)>, '__doc__': None, '__name__': '__main__', '__package__': None, 'sin': <built-in function sin>, 'math': <module 'math' (built-in)>}
+>>> matematika.log(10,10)
+1.0
+>>> ================================ RESTART ================================
+>>> 
+
+Traceback (most recent call last):
+  File "/home/user/DMI/PYTHON/zimesana1.py", line 1, in <module>
+    from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
+ImportError: No module named matplotlib.backends.backend_agg
+>>> ================================ RESTART ================================
+>>> 
+
+Traceback (most recent call last):
+  File "/home/user/DMI/PYTHON/zimesana1.py", line 1, in <module>
+    import matplotlib.pyplot as plt
+ImportError: No module named matplotlib.pyplot
+>>> import matplotlib
+
+Traceback (most recent call last):
+  File "<pyshell#14>", line 1, in <module>
+    import matplotlib
+ImportError: No module named matplotlib
+>>> 

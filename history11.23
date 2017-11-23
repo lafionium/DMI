@@ -1,0 +1,45 @@
+    1  VirtualBox --startvm XP
+    2  import plotly.plotly as py
+    3  import plotly.graph_objs as go
+    4  nano tabula1.py 
+    5  ./tabula1.py
+    6  tabula1.py 
+    7  nano tabula
+    8  mv tabula tabula.py
+    9  chmod 744 tabula.py
+   10  ./tabula.py
+   11  nano tabula.py
+   12  ./tabula.py
+   13  nano tabula.py
+   14  ./tabula.py
+   15  nano tabula.py
+   16  ./tabula.py
+   17  nano tabula.py
+   18  ./tabula.py
+   19  nano tabula.py
+   20  ./tabula.py
+   21  nano tabula.py
+   22  ./tabula.py
+   23  nano tabula.py
+   24  ./tabula.py
+   25  nano tabula.py
+   26  ./tabula.py
+   27  nano tabula.py
+   28  ./tabula.py
+   29  nano tabula.py
+   30  ./tabula.py
+   31  nano tabula.py
+   32  ./tabula.py
+   33  nano tabula.py
+   34  ./tabula.py
+   35  nano tabula.py
+   36  ./tabula.py
+   37  nano tabula.py
+   38  ./tabula.py
+   39  nano tabula.py
+   40  ./tabula.py
+   41  rm tabula1.py
+   42  ls -l
+   43  cd 
+   44  cd DMI
+   45  history > history11.23
