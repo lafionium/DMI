@@ -1,0 +1,15 @@
+    1  VirtualBox --startvm XP
+    2  git download
+    3  git clone
+    4  git clone https://github.com/lafionium/DMI
+    5  cd DMI
+    6  cd PYTHON
+    7  IDLE&
+    8  idle&
+    9  cd ..
+   10  ls -l
+   11  cd PYTHON
+   12  ls -l
+   13  nano tabula.py
+   14  cd ..
+   15  history > history7122017
