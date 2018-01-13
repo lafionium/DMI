@@ -60,6 +60,7 @@ echo " c ($c) - lilākais skaitlis"
 fi
 END
 
+: <<'END'
 if (( $a > $b && $a > $c ))
 then
  if (( $b > $c ))
@@ -71,26 +72,28 @@ then
   echo " ($a) ($c) ($b)"
  fi
 fi
+END
 
-
-: <<'END'
 if (( $b > $a && $b > $c ))
-if (( $a > $c))
-then
-echo " ($b) ($a) ($c)"
-elif (( $a < $c ))
-echo " ($b) ($c) ($a)"
-fi
+ then
+  if (( $a > $c))
+   then
+    echo " ($b) ($a) ($c)"
+  elif (( $a < $c ))
+   then
+    echo " ($b) ($c) ($a)"
+  fi
 fi
 
 
 if (( $c > $b && $c > $a ))
-if (( $b > $a))
-then
-echo " ($c) ($b) ($a)"
-elif (( $b < $a ))
-then
-echo " ($c) ($a) ($b)"
+ then
+  if (( $b > $a))
+   then
+    echo " ($c) ($b) ($a)"
+  elif (( $b < $a ))
+   then
+    echo " ($c) ($a) ($b)"
+  fi
 fi
-fi
-END
+

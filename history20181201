@@ -1,0 +1,49 @@
+    1  VirtualBox --startvm XP
+    2  cd
+    3  cd DMI
+    4  ls -l
+    5  ./ a_VS_b.sh
+    6  ./a_VS_b.sh
+    7  nano a_VS_b.sh
+    8  ./a_VS_b.sh
+    9  nano a_VS_b.sh
+   10  ./a_VS_b.sh
+   11  ls -l
+   12  ./a_VS_b.sh
+   13  import results.png
+   14  ls -l
+   15  cd ..
+   16  ls -l
+   17  mv FINAL/ DMI/
+   18  cd DMI/
+   19  ls -l
+   20  mv 2017_2018_00/ ../
+   21  ls -l
+   22  mv results.png FINAL/
+   23  ls -l
+   24  cd ..
+   25  ls -l
+   26  DMI/
+   27  cd DMI/
+   28  ls -l
+   29  cd FINAL
+   30  ls- l
+   31  ls -l
+   32  nano index.html
+   33  cd
+   34  cd DMI
+   35  cd PYTHON
+   36  ls -l
+   37  nano tabula.py
+   38  ./tabula.py 
+   39  ./ tabula.py 
+   40  nano tabula.py
+   41  python tabula.py
+   42  import rezults_tabula.png
+   43  cd
+   44  cd DMI
+   45  nano git-upload
+   46  git-upload 2018_12_01
+   47  ls -l
+   48  hystory > hystory20181201
+   49  history > history20181201
